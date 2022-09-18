@@ -1,0 +1,27 @@
+console app met database oefening
+
+applicatie om studenten te registreren
+moet naam, geboortedatum en emailadres opslaan
+app moet een database link hebben
+
+student model class
+- studentFirstName: String
+- studentLastName: String
+- studentDateOfBirth: Date
+- studentEmail: String
+
+student service class
+- addStudentToDatabase()
+- removeStudentFromDatabase()
+- showAllStudents()
+- showStudentsByName
+
+Menu class
+- printMenuTitle()
+- printMenuChoices()
+-
+
+Scanner class
+- recieveInput()
+
+database service class?
